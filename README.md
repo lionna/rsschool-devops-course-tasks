@@ -169,3 +169,4 @@ Once the workflow completes successfully, you can visit the AWS Management Conso
   ![TERRAFORM](img/task1/05_actions_result.png)
 
 </details>
+
